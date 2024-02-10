@@ -22,7 +22,7 @@ def app():
     </style>
     """, unsafe_allow_html=True)
 
-    st.markdown('<p class="big-font">Welcome to AI based Real e-state web APP ❤️</p>', unsafe_allow_html=True)
+    st.markdown('<p class="big-font">Welcome to AI based Real e-state web APP </p>', unsafe_allow_html=True)
     
     st.write('Step into the future of real estate with AI, an innovative AI-based web application designed to redefine the way you experience property transactions. Our cutting-edge technology seamlessly combines artificial intelligence with real estate expertise, creating a user-friendly platform that simplifies the entire property journey.')
     st.write('Key Features:')

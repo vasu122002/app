@@ -5,8 +5,8 @@ from streamlit_option_menu import option_menu
 import Hello , Check_Prizes, Analytics
 
 st.set_page_config(
-    page_title="Gurgaon Real Estate Analytics App",
-    page_icon="👋",
+    page_title="Gurugram Real Estate Web App",
+    
 )
 
 
